@@ -1,3 +1,3 @@
 # ReactiveCombineBridge
 
-A description of this package.
+A small library for bridging between ReactiveSwift and Combine.
